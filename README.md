@@ -5,7 +5,8 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](./hebrew_section_html.html)
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](./SQL.sql)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)](https://public.tableau.com/views/RevenueMetricsProject2022/REVENUEMETRICSOVERTIMEBYUSERSEGMENTS20222?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://htmlpreview.github.io/?https://github.com/Artisa111/revenue-metrics-analysis-2022/blob/main/hebrew_section_html)  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://htmlpreview.github.io/?https://github.com/Artisa111/revenue-metrics-analysis-2022/blob/main/hebrew_section_html) 
+
 
 ## 🏰 **Project Overview**
 
@@ -89,7 +90,6 @@ Special thanks to our wise mentors and guides in this data adventure:
 ---
 
 ## 📝 Hebrew Version Available
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://htmlpreview.github.io/?https://github.com/Artisa111/revenue-metrics-analysis-2022/blob/main/hebrew_section_html) 
 
-**עברית:** For Hebrew speakers, a complete Hebrew version of this documentation is available in the project's main HTML file where RTL text rendering is properly supported.
 
-**גרסה עברית מלאה זמינה בקובץ ה-HTML הראשי של הפרויקט עם תמיכה מלאה בכיוון טקסט מימין לשמאל.**
