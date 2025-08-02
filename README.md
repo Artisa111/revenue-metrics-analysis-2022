@@ -90,6 +90,6 @@ Special thanks to our wise mentors and guides in this data adventure:
 ---
 
 ## 📝 Hebrew Version Available
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://htmlpreview.github.io/?https://github.com/Artisa111/revenue-metrics-analysis-2022/blob/main/hebrew_section_html) 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://artisa111.github.io/revenue-metrics-analysis-2022/hebrew_section_html)
 
 
