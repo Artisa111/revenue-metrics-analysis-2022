@@ -1,6 +1,5 @@
 # revenue-metrics-analysis-2022
 ## 🎮 Gaming Analytics: Revenue Metrics Over Time by User Segments (2022) | SQL + Tableau Dashboard
-# 🎮 Revenue Metrics Over Time by User Segments (2022)
 ## Gaming Analytics Adventure | הרפתקת ניתוח נתוני משחקים
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)]()
