@@ -4,8 +4,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)]()
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)]()
-[![Tableau][(https://img.shields.io/badge/Tableau-Dashboard-orange)]()](https://public.tableau.com/views/RevenueMetricsProject2022/REVENUEMETRICSOVERTIMEBYUSERSEGMENTS20222?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)](https://public.tableau.com/views/RevenueMetricsProject2022/REVENUEMETRICSOVERTIMEBYUSERSEGMENTS20222?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 🏰 **Project Overview**
